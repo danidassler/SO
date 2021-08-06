@@ -1,0 +1,5 @@
+Alvaro Casado Molinero 
+Daniel Sanz Mayo
+Laboratorio 10 Puesto 14
+
+Al escribir en el fichero de chardev_leds creado despues de instalar el módulo, se encenderan los leds correspondientes a los numeros 1, 2 y 3. 

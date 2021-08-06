@@ -1,0 +1,4 @@
+Daniel Sanz Mayo
+Alvaro Casado Molinero
+
+En el ejercicio 3, el simulator, nos pasa que si un usuario baja del autobus en una parada se puede volver a subir en la misma en la que se ha bajado, de hecho pasa en alguna ocasion, tambien hay opcion de que se suba un usuario se baje otro y se vuelva a subir uno, no sabemos si tenia que ir en orden y esta mal o no.
